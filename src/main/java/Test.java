@@ -39,4 +39,7 @@ public class Test {
   private void test3(){
       System.out.println("this is test for conflict");
   }
+    private void test5(){
+        System.out.println("this is test for conflict");
+    }
 }
