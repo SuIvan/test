@@ -36,4 +36,7 @@ public class Test {
       System.out.println("this is test for dev branch test conflict");
 
     }
+      System.out.println("this is test for conflict");
+  }
+
 }
