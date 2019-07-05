@@ -36,4 +36,7 @@ public class Test {
       System.out.println("this is test for conflict");
   }
 
+  private void test3(){
+      System.out.println("this is test for conflict");
+  }
 }
