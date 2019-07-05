@@ -26,4 +26,8 @@ public class Test {
     private void newfunction(){
       System.out.println("new function");
     }
+
+    private void test1(){
+      System.out.println("this is for test push function");
+    }
 }
