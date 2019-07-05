@@ -23,5 +23,7 @@ public class Test {
   }
 
 
-
+    private void newfunction(){
+      System.out.println("new function");
+    }
 }
