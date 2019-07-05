@@ -33,9 +33,6 @@ public class Test {
 
     private void test2(){
       System.out.println("this is test for dev branch");
-      System.out.println("this is test for dev branch test conflict");
-
-    }
       System.out.println("this is test for conflict");
   }
 
@@ -46,7 +43,7 @@ public class Test {
         System.out.println("this is test for conflict");
     }
 
-    private void test6(){
-        System.out.println("test source tree");
+    private void test7(){
+        System.out.println("this is test for conflict");
     }
 }
