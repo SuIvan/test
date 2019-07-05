@@ -42,4 +42,8 @@ public class Test {
     private void test5(){
         System.out.println("this is test for conflict");
     }
+
+    private void test7(){
+        System.out.println("this is test for conflict");
+    }
 }
