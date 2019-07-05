@@ -30,4 +30,8 @@ public class Test {
     private void test1(){
       System.out.println("this is for test push function");
     }
+
+    private void test2(){
+      System.out.println("this is test for dev branch");
+    }
 }
